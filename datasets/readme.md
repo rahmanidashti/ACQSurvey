@@ -7,7 +7,7 @@
 - [ ] __TavakoliCQ__: ...
 - [X] __MIMICS__
 - [ ] __MIMICS-Duo__: Extention of `MIMICS`.
-- [ ] __ClariQ-FK__: Extention of `ClariQ`.
+- [X] __ClariQ-FK__
 - [ ] __ClarQ__: Very large (more than 5 GB).
 - [ ] __MANtIS__: The intent for 1356 dialogues with two experts (almost a large file and confusing with intents. The name of the intents in the paper is not consistent with the ones in the data files. I guess the used the acronym for the intents borrowed from `MSDialoge`).
 - [X] __MSDialoge__
