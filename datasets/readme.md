@@ -4,9 +4,9 @@
 ## Datasets
 - [X] __Qulac__
 - [X] __ClariQ__
-- [ ] __TavakoliCQ__: ...
+- [ ] __TavakoliCQ__: 
 - [X] __MIMICS__
-- [ ] __MIMICS-Duo__: Extention of `MIMICS`.
+- [X] __MIMICS-Duo__
 - [X] __ClariQ-FK__
 - [ ] __ClarQ__: Very large (more than 5 GB).
 - [ ] __MANtIS__: The intent for 1356 dialogues with two experts (almost a large file and confusing with intents. The name of the intents in the paper is not consistent with the ones in the data files. I guess the used the acronym for the intents borrowed from `MSDialoge`).
@@ -14,4 +14,4 @@
 - [ ] __ShARC__: We can extract the follow-up questions.
 - [X] __RaoCQ__
 - [X] __AmazonCQ__
-- [ ] __CLAQUA__: ...
+- [ ] __CLAQUA__: 
