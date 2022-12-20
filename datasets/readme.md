@@ -1,5 +1,4 @@
 - clariq.tsv is the `question_bank.tsv` in original data files.
-- mimics-tsv is already the `MIMICS-Manual.tsv`.
 
 ## Datasets
 - [X] __Qulac__
