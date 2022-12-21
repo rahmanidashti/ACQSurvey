@@ -1,6 +1,6 @@
 - clariq.tsv is the `question_bank.tsv` in original data files.
 - Removing repeated CQs for each dataset
-- Do sampling as the datasets do not have qual number of CQs
+- Do sampling as the datasets do not have qual number of CQs: Minimum no. of CQs for a dataset
 - MIMICS and MIMICS-Duo, we should add their pan options into the CQs as they are part of the clarification.
 
 ## Datasets
