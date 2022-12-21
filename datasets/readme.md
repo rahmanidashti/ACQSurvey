@@ -16,4 +16,4 @@
 - [X] __ShARC__: 1,158 CQs
 - [ ] __RaoCQ__: 
 - [X] __AmazonCQ__: 152,698 CQs
-- [ ] __CLAQUA__: 
+- [ ] __CLAQUA__: Open-domain KB: Satori, 12105 CQs
