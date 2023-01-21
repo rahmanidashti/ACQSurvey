@@ -20,8 +20,3 @@ Papers, Codes, and Datasets on Asking Clarification Question
 
 <!-- ### Relevant Survey Papers -->
 
-## To Do
-
-- [ ] Creating a webpage for the details of collected papers and datasets
-- [ ] Adding other relevant information (appendix from the paper) into the webapge
-
