@@ -1,5 +1,7 @@
 # ACQ Survey
 
+An overview of the ACQ datasets.
+
 ## Tasks
 
 ### T1: Clarification Need Prediction
@@ -17,3 +19,7 @@ We preprocess each dataset into train/val/test sets with query-question pairs:
 > ranking_approaches.py
 
 ### T3: User Satisfaction with CQs
+
+## Details
+
+Note that more details of experiments, datasets, and codes will be realased upon the acceptance of the paper.
