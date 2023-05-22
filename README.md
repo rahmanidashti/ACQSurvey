@@ -32,3 +32,19 @@ We preprocess each dataset into train/val/test sets with query-question pairs:
 ## Details
 
 Note that more details of experiments, datasets, and codes will be realased upon the acceptance of the paper.
+
+
+## Citation
+If you use our source code, dataset, and experiments for your research or development, please cite the following paper:
+
+```
+@inproceedings{naghiaei2022cpfairness,
+  title={CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems},
+  author={Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yashar Deldjoo},
+  booktitle={The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  year={2022}
+}
+```
+
+## Contact
+If you have any questions, do not hesitate to contact us by `hossein.rahmani.22@ucl.ac.uk` or `xi-wang@ucl.ac.uk`, we will be happy to assist.
