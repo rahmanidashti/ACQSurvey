@@ -38,11 +38,11 @@ Note that more details of experiments, datasets, and codes will be realased upon
 If you use our source code, dataset, and experiments for your research or development, please cite the following paper:
 
 ```
-@inproceedings{naghiaei2022cpfairness,
-  title={CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems},
-  author={Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yashar Deldjoo},
-  booktitle={The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  year={2022}
+@inproceedings{rahmani2023acqsurvey,
+  title={A Survey on Asking Clarification Questions Datasets in Conversational Systems},
+  author={Hossein A. Rahmani, Xi Wang, Yue Feng, Qiang Zhang, Emine Yilmaz, Aldo Lipani},
+  booktitle={The 61st Annual Meeting of the Association for Computational Linguistics, Toronto, Canada, July 9-14, 202},
+  year={2023}
 }
 ```
 
