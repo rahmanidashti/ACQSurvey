@@ -6,7 +6,17 @@ An overview of the ACQ datasets.
 The ability to understand a user’s underlying needs is critical for conversational systems, especially with limited input from users in a conversation. Thus, in such a domain, Asking Clarification Questions (ACQs) to reveal users’ true intent from their queries or utterances arise as an essential task. However, it is noticeable that a key limitation of the existing ACQs studies is their incomparability, from inconsistent use of data, distinct experimental setups and evaluation strategies. Therefore, in this paper, to assist the development of ACQs techniques, we comprehensively analyse the current ACQs research status, which offers a detailed comparison of publicly available datasets, and discusses the applied evaluation metrics, joined with benchmarks for multiple ACQs-related tasks. In particular, given a thorough analysis of the ACQs task, we discuss a number of corresponding research directions for the investigation of ACQs as well as the development of conversational systems.
 
 ## Datasets
-dataset
+| Year | Domain | Acronym | Authors | Title | Venue | Code | Dataset | Leaderboard |
+|------|-------|-------|------|------|------|-------|-------|-------|
+| 2019<sup>*</sup>| Open (Info. Seeking) | Qulac | Aliannejadi et al. | [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://arxiv.org/pdf/1907.06554.pdf)| SIGIR | [Link](https://github.com/aliannejadi/qulac) |[Link](https://github.com/aliannejadi/qulac) | -
+| 2020<sup>*</sup> | Open (Info. Seeking) | ClariQ | Aliannejadi et al. | [ConvAI3: Generating Clarifying Questions for Open-Domain Dialogue Systems (ClariQ)](https://arxiv.org/abs/2009.11352)| - | [Link](https://github.com/aliannejadi/ClariQ) | [Link](https://github.com/aliannejadi/ClariQ) | [Link](http://convai.io/#automatic-evaluation-leaderboard-hidden-test-set)
+| 2022<sup>*</sup>| Open (Info. Seeking) | ISEEQ | Gaur et al. | [ISEEQ: Information Seeking Question Generation using Dynamic Meta-Information Retrieval and Knowledge Graphs](https://arxiv.org/pdf/2112.07622.pdf)| AAAI | [Link](https://github.com/manasgaur/AAAI-22) | [-](-) | [-]()
+| -<sup>*</sup>| - | - | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
+| -<sup>*</sup>| - | - | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
+| -<sup>*</sup>| - | - | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
+| -<sup>*</sup>| - | - | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
+| -<sup>*</sup>| - | - | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
+| -<sup>*</sup>| - | - | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
 
 ## Semantic Representation
 We leverage the t-distributed Stochastic Neighbor Embedding (i.e., t-SNE) method to visualize the semantic representation of clarification questions (semantic embeddings) for comparing Conversational search and Conversational Question Answering datasets.
