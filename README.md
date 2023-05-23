@@ -9,7 +9,11 @@ The ability to understand a user’s underlying needs is critical for conversati
 dataset
 
 ## Semantic Representation
-Semantic Representation
+We leverage the t-distributed Stochastic Neighbor Embedding (i.e., t-SNE) method to visualize the semantic representation of clarification questions (semantic embeddings) for comparing Conversational search and Conversational Question Answering datasets.
+
+Conversational QA Datasets         |  Conversational Search Datasets
+:-------------------------:|:-------------------------:
+![](./figures/tsne_convqa_datasets.png)  |  ![](./figures/tsne_convsearch_datasets.png)
 
 ## Tasks
 
