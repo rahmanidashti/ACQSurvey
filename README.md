@@ -10,23 +10,23 @@ The ability to understand a user’s underlying needs is critical for conversati
 ### Conv. Search
 | Year | Acronym | Authors | Title | Venue | Code | Dataset | Leaderboard |
 |------|-------|------|------|------|-------|-------|-------|
-| - | ClariT | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | Qulac | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | ClariQ | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | TavakoliCQ | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | MIMICS | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | MANtIS | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | ClariQ-FKw | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | MSDialog | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | MIMICS-Duo | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
+| - | ClariT | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | Qulac | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | ClariQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | TavakoliCQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | MIMICS | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | MANtIS | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | ClariQ-FKw | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | MSDialog | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | MIMICS-Duo | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
 
 ### Conv. QA
 | Year | Acronym | Authors | Title | Venue | Code | Dataset | Leaderboard |
 |------|-------|------|------|------|-------|-------|-------|
-| - | ClarQ | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | RaoCQ | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | AmazonCQ | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
-| - | CLAQUA | - et al. | [-](-)| SIGIR | [-](-) | [-](-) | [-]()
+| - | ClarQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | RaoCQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | AmazonCQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| - | CLAQUA | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
 
 ## Semantic Representation
 We leverage the t-distributed Stochastic Neighbor Embedding (i.e., t-SNE) method to visualize the semantic representation of clarification questions (semantic embeddings) for comparing Conversational search and Conversational Question Answering datasets.
