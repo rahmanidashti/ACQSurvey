@@ -80,7 +80,7 @@ If you use our source code, dataset, and experiments for your research or develo
 ```
 ## TODO
 
-[] TREC CAst Dataset
+[ ] TREC CAst Dataset
 
 ## Contact
 If you have any questions, do not hesitate to contact us by `hossein.rahmani.22@ucl.ac.uk` or `xi-wang@ucl.ac.uk`, we will be happy to assist.
