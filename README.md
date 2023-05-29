@@ -58,6 +58,9 @@ We preprocess each dataset into train/val/test sets with query-question pairs:
 Note that more details of experiments, datasets, and codes will be realased upon the acceptance of the paper. 
 
 ## Contributing
+
+We welcome contributions to update this repository with growing development of asking clarification question datasets as well as relevant techniques. 
+
 The contributions are suggested by following a common routine:
 1. repository fork and clone.
 2. add the updates and create pull requests (refer to [github help page](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to get the detailed instructions.).
@@ -75,8 +78,9 @@ If you use our source code, dataset, and experiments for your research or develo
   year={2023}
 }
 ```
-## Contributing
-We welcome contributions to update this repository with growing development of asking clarification question datasets as well as relevant techniques. 
+## TODO
+
+[] TREC CAst Dataset
 
 ## Contact
 If you have any questions, do not hesitate to contact us by `hossein.rahmani.22@ucl.ac.uk` or `xi-wang@ucl.ac.uk`, we will be happy to assist.
