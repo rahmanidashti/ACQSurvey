@@ -16,7 +16,7 @@ The ability to understand a user’s underlying needs is critical for conversati
 | 2021 | TavakoliCQ | Tavakoli et al. | [Analyzing clarification in asynchronous information-seeking conversations](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24562?casa_token=9VJi9ZHbwDYAAAAA%3AVgmUTd3TN7q9-YTvoXyTO4gb1KApVXdnUXU8_GpaFnNjINF-bXlJuV4KDIHXbv_PjqEOVv-MVddX5g)| JASISI21 | [-](-) | [-](-) | [-]()
 | 2020 | MIMICS | Zamani et al. | [MIMICS: A Large-Scale Data Collection for Search Clarification](https://dl.acm.org/doi/abs/10.1145/3340531.3412772)| CIKM20 | [-](-) | [-](-) | [-]()
 | 2019 | MANtIS | Penha et al. | [Introducing MANtIS: a novel Multi-Domain Information Seeking Dialogues Dataset](https://arxiv.org/abs/1912.04639)| Arxiv19 | [-](-) | [-](-) | [-]()
-| 2021 | ClariQ-FKw | Sekulic et al. | [Towards facet-driven generation of clarifying questions for conversational search](https://dl.acm.org/doi/pdf/10.1145/3471158.3472257?casa_token=3Cuhuj31xP0AAAAA:DI8BDyMDvSDM4o-IACdLgHPltL2pNnRq2u0O0LbthY1HbC7r5fG5wg71sULxqbUvk5V0PO3fjFU)| ICTIR21 | [-](-) | [-](-) | [-]()
+| 2021 | ClariQ-FKw | Sekulić et al. | [Towards facet-driven generation of clarifying questions for conversational search](https://dl.acm.org/doi/pdf/10.1145/3471158.3472257?casa_token=3Cuhuj31xP0AAAAA:DI8BDyMDvSDM4o-IACdLgHPltL2pNnRq2u0O0LbthY1HbC7r5fG5wg71sULxqbUvk5V0PO3fjFU)| ICTIR21 | [-](-) | [-](-) | [-]()
 | 2018 | MSDialog | Qu et al. | [Analyzing and characterizing user intent in information-seeking conversations](https://dl.acm.org/doi/pdf/10.1145/3209978.3210124)| SIGIR18 | [-](-) | [-](-) | [-]()
 | 2022 | MIMICS-Duo | Tavakoli et al. | [Mimics-duo: Offline & online evaluation of search clarification](https://dl.acm.org/doi/pdf/10.1145/3477495.3531750?casa_token=qdi5wVFWLncAAAAA:RcbL3JVfaF6SlJeN8ok_RbB_zS_0Igl5gcZf4VefVQj23ukeup3KjkcjDX64L-FG3CUrqCRN9Tc)| SIGIR22 | [-](-) | [-](-) | [-]()
 |2022 |CAsT (Year 4)|Owoicho et al.|[TREC CAsT 2022: Going Beyond User Ask and System Retrieve with Initiative and Response Generation](https://trec.nist.gov/pubs/trec31/papers/Overview_cast.pdf)|TREC22|[-](-)|[-](-)|[-]()
@@ -24,10 +24,10 @@ The ability to understand a user’s underlying needs is critical for conversati
 ### Conversational Question Answering
 | Year | Acronym | Authors | Title | Venue | Code | Dataset | Leaderboard |
 |------|-------|------|------|------|-------|-------|-------|
-| - | ClarQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | RaoCQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | AmazonCQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | CLAQUA | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| 2020 | ClarQ | Kumar and Black | [Clarq: A large-scale and diverse dataset for clarification question generation](https://aclanthology.org/2020.acl-main.651)| ACL20 | [-](-) | [-](-) | [-]()
+| 2018 | RaoCQ | Rao and Daumé III | [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/)| ACL18 | [-](-) | [-](-) | [-]()
+| 2019 | AmazonCQ | Rao and Daumé III | [Answer-based adversarial training for generating clarification questions](https://aclanthology.org/N19-1013.pdf)| ACL19 | [-](-) | [-](-) | [-]()
+| 2019 | CLAQUA | Xu et al. | [Asking Clarification Questions in Knowledge-Based Question Answering](https://aclanthology.org/D19-1172/)| EMNLP-IJCNLP19 | [-](-) | [-](-) | [-]()
 
 ## Semantic Representation
 We leverage the t-distributed Stochastic Neighbor Embedding (i.e., t-SNE) method to visualize the semantic representation of clarification questions (semantic embeddings) for comparing Conversational search and Conversational Question Answering datasets.
