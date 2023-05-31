@@ -7,20 +7,20 @@ The ability to understand a user’s underlying needs is critical for conversati
 
 ## Datasets
 
-### Conv. Search
+### Conversational Search
 | Year | Acronym | Authors | Title | Venue | Code | Dataset | Leaderboard |
 |------|-------|------|------|------|-------|-------|-------|
-| - | ClariT | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | Qulac | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | ClariQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | TavakoliCQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | MIMICS | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | MANtIS | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | ClariQ-FKw | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | MSDialog | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
-| - | MIMICS-Duo | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
+| 2023 | ClariT | Yue et al. | [Towards asking clarification questions for information seeking on task-oriented dialogues](https://arxiv.org/abs/2305.13690)| Arxiv23 | [-](-) | [-](-) | [-]()
+| 2019 | Qulac | Aliannejadi et al. | [Asking clarifying questions in open-domain information-seeking conversations](https://dl.acm.org/doi/abs/10.1145/3331184.3331265)| SIGIR19 | [-](-) | [-](-) | [-]()
+| 2021 | ClariQ | Aliannejadi et al. | [Building and evaluating open-domain dialogue corpora with clarifying questions](https://aclanthology.org/2021.emnlp-main.367)| EMNLP21 | [-](-) | [-](-) | [-]()
+| 2021 | TavakoliCQ | Tavakoli et al. | [Analyzing clarification in asynchronous information-seeking conversations](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24562?casa_token=9VJi9ZHbwDYAAAAA%3AVgmUTd3TN7q9-YTvoXyTO4gb1KApVXdnUXU8_GpaFnNjINF-bXlJuV4KDIHXbv_PjqEOVv-MVddX5g)| JASISI21 | [-](-) | [-](-) | [-]()
+| 2020 | MIMICS | Zamani et al. | [MIMICS: A Large-Scale Data Collection for Search Clarification](https://dl.acm.org/doi/abs/10.1145/3340531.3412772)| CIKM20 | [-](-) | [-](-) | [-]()
+| 2019 | MANtIS | Penha et al. | [Introducing MANtIS: a novel Multi-Domain Information Seeking Dialogues Dataset](https://arxiv.org/abs/1912.04639)| Arxiv19 | [-](-) | [-](-) | [-]()
+| 2021 | ClariQ-FKw | Sekulic et al. | [Towards facet-driven generation of clarifying questions for conversational search](https://dl.acm.org/doi/pdf/10.1145/3471158.3472257?casa_token=3Cuhuj31xP0AAAAA:DI8BDyMDvSDM4o-IACdLgHPltL2pNnRq2u0O0LbthY1HbC7r5fG5wg71sULxqbUvk5V0PO3fjFU)| ICTIR21 | [-](-) | [-](-) | [-]()
+| 2018 | MSDialog | Qu et al. | [Analyzing and characterizing user intent in information-seeking conversations](https://dl.acm.org/doi/pdf/10.1145/3209978.3210124)| SIGIR18 | [-](-) | [-](-) | [-]()
+| 2022 | MIMICS-Duo | Tavakoli et al. | [Mimics-duo: Offline & online evaluation of search clarification](https://dl.acm.org/doi/pdf/10.1145/3477495.3531750?casa_token=qdi5wVFWLncAAAAA:RcbL3JVfaF6SlJeN8ok_RbB_zS_0Igl5gcZf4VefVQj23ukeup3KjkcjDX64L-FG3CUrqCRN9Tc)| SIGIR22 | [-](-) | [-](-) | [-]()
 
-### Conv. QA
+### Conversational Question Answering
 | Year | Acronym | Authors | Title | Venue | Code | Dataset | Leaderboard |
 |------|-------|------|------|------|-------|-------|-------|
 | - | ClarQ | - et al. | [-](-)| - | [-](-) | [-](-) | [-]()
