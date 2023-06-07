@@ -54,10 +54,6 @@ We preprocess each dataset into train/val/test sets with query-question pairs:
 
 ### T3: User Satisfaction with CQs
 
-## Details
-
-Note that more details of experiments, datasets, and codes will be realased upon the acceptance of the paper. 
-
 ## Contributing
 
 We welcome contributions to update this repository with growing development of asking clarification question datasets as well as relevant techniques. 
@@ -82,6 +78,15 @@ If you use our source code, dataset, and experiments for your research or develo
 ## TODO
 
 - [ ] TREC CAst Dataset
+
+## Team
+
+- Hossein A. Rahmani (UCL)
+- Xi Wang (UCL)
+- Yue Feng (UCL)
+- Qiang Zhang (Zhejiang University)
+- Emine Yilmaz (UCL & Amazon)
+- Aldo Lipani (UCL)
 
 ## Contact
 If you have any questions, do not hesitate to contact us by `hossein.rahmani.22@ucl.ac.uk` or `xi-wang@ucl.ac.uk`, we will be happy to assist.
